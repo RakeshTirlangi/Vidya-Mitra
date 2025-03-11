@@ -7,6 +7,9 @@ import re
 import json
 import multiprocessing
 from fastapi.middleware.cors import CORSMiddleware
+from dotenv import load_env
+
+load_env()
 
 from crewai import Agent, Task, Crew, Process as CrewProcess
 
