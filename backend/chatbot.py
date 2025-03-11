@@ -13,10 +13,13 @@ from pydantic import BaseModel
 import google.generativeai as genai
 from crewai import Agent, Task, Crew, Process
 from crewai_tools import SerperDevTool
+from dotenv import load_dotenv()
 
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY") 
-SERPER_API_KEY = os.environ.get("SERPER_API_KEY")
+load_dotenv()
+
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+SERPER_API_KEY = os.getenv("SERPER_API_KEY")
 
 
 genai.configure(api_key=GEMINI_API_KEY)
