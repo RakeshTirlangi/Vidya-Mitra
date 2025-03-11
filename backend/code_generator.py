@@ -9,7 +9,7 @@ from crewai import Agent, Task, Crew, Process
 import litellm
 from datetime import datetime
 
-os.environ["GEMINI_API_KEY"] = "AIzaSyAfvi6jTzKOBMZLA4eebmf7-5swapUr5dA"
+os.environ["GEMINI_API_KEY"] = os.getenv("GEMINI_API_KEY")
 
 
 app = FastAPI(title="CrewAI Code Generator API")
