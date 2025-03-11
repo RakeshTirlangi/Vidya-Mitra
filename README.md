@@ -144,4 +144,4 @@ Visit `http://localhost:3000` to see Vidya Mitra in action!
 
 ---
 
-© 2025 Vidya Mitra Team | [Contact Us](mailto:rakeshtirlangi21@gmail.com)
+© 2025 Vidya Mitra Team | [Contact Us](https://www.linkedin.com/in/rakesh-tirlangi/)
