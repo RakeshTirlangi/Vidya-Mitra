@@ -2,6 +2,8 @@
 
 ![Vidya Mitra Logo](frontend/resources/dashboard.png)
 
+[📺 Watch Demo Video](https://drive.google.com/file/d/1eIehR4QUnKA_NNgQTPzt77drfhdQopXO/view?usp=sharing)
+
 > Making learning easy and effective through AI-powered education
 > > Built Totally upon AI Agents
 
@@ -84,7 +86,6 @@ Topic Selection → Format Choice → AI Knowledge Base Check → Internet Resea
 
 ### 📝 Content Generator
 
-
 Learning materials tailored to your expertise:
 - Select your topic and proficiency level (Beginner/Intermediate/Advanced)
 - Receive comprehensive, well-structured content
@@ -96,7 +97,7 @@ Learning materials tailored to your expertise:
 Topic & Level Selection → AI Agents Web Research → Content Curation → Level-Appropriate Formatting → Comprehensive Material Delivery
 ```
 
-## 🔧 Technology Stack
+## 🛠 Technology Stack
 
 - **AI Models**: Powered by Gemini models for intelligent responses
 - **Agent Framework**: Built on CrewAI for collaborative AI agent workflows
@@ -137,10 +138,6 @@ npm start
 ```
 
 Visit `http://localhost:3000` to see Vidya Mitra in action!
-
-
-
-
 
 ---
 
