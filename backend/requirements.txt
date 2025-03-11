@@ -7,3 +7,4 @@ google-generativeai
 crewai
 crewai-tools
 litellm
+python-dotenv
