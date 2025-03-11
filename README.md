@@ -3,6 +3,7 @@
 ![Vidya Mitra Logo](https://via.placeholder.com/800x200)
 
 > Making learning easy and effective through AI-powered education
+> > Built Totally upon AI Agents
 
 ## 🌟 About Vidya Mitra
 
@@ -138,10 +139,7 @@ Visit `http://localhost:3000` to see Vidya Mitra in action!
 
 
 
-## 🙏 Acknowledgements
 
-- Thanks to all our contributors and testers
-- Special thanks to the open-source community for the amazing tools that made this possible
 
 ---
 
