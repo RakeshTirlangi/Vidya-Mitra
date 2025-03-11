@@ -5,11 +5,11 @@ import os
 import litellm
 from enum import Enum
 
-# Import your existing StudyAidCreator class
+
 from crewai import Agent, Task, Crew, Process
 
-# Set API key directly in the code as requested
-API_KEY = "AIzaSyAVkcnSevtw_tgXS4ILX_BeaeGFCJLU3HU"
+
+API_KEY = os.getenv("GEMINI_API_KEY")
 os.environ["GEMINI_API_KEY"] = API_KEY
 
 class StudyAidType(Enum):
