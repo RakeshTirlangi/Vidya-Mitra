@@ -11,7 +11,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from crewai import Agent, Task, Crew, Process as CrewProcess
 
 
-os.environ["GEMINI_API_KEY"] = "AIzaSyAfvi6jTzKOBMZLA4eebmf7-5swapUr5dA"
+os.environ["GEMINI_API_KEY"] = os.getenv("GEMINI_API_KEY")
 
 class GeminiLLM:
     def __init__(self, model_name="gemini/gemini-2.0-flash-lite"):
