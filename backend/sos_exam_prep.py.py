@@ -4,10 +4,11 @@ from pydantic import BaseModel
 import os
 import litellm
 from enum import Enum
-
+from dotenv import load_dotenv
 
 from crewai import Agent, Task, Crew, Process
 
+load_dotenv()
 
 API_KEY = os.getenv("GEMINI_API_KEY")
 os.environ["GEMINI_API_KEY"] = API_KEY
