@@ -1,6 +1,6 @@
 # Vidya Mitra
 
-![Vidya Mitra Logo](https://via.placeholder.com/800x200)
+![Vidya Mitra Logo](frontend/resources/dashboard.png)
 
 > Making learning easy and effective through AI-powered education
 > > Built Totally upon AI Agents
@@ -12,7 +12,7 @@ Vidya Mitra is a comprehensive education platform built to transform how student
 ## ✨ Key Features
 
 ### 📚 Resource Generator
-![Resource Generator](https://via.placeholder.com/600x300)
+![Resource Generator](frontend/resources/resource_gen.png)
 
 Finding quality learning materials has never been easier:
 - Enter any topic of interest
