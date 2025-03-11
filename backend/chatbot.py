@@ -15,8 +15,8 @@ from crewai import Agent, Task, Crew, Process
 from crewai_tools import SerperDevTool
 
 
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyAfvi6jTzKOBMZLA4eebmf7-5swapUr5dA") 
-SERPER_API_KEY = os.environ.get("SERPER_API_KEY", "b8d0a8d68ec30023aaf5fa6e8504aa9d975639b2")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY") 
+SERPER_API_KEY = os.environ.get("SERPER_API_KEY")
 
 
 genai.configure(api_key=GEMINI_API_KEY)
