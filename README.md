@@ -1,4 +1,4 @@
-# Vidya Mitra
+# Vidya Mitra: AI Agents United for Educational Excellence
 
 ![Vidya Mitra Logo](frontend/resources/dashboard.png)
 
@@ -55,7 +55,7 @@ Draw on Canvas → Image to Variable Conversion → LLM Processing → Solution 
 ```
 
 ### 💻 Code Generator
-![Code Generator](https://via.placeholder.com/600x300)
+![Code Generator](frontend/resources/code_gen.png)
 
 Accelerate your programming journey:
 - Request code in any popular programming language
@@ -69,7 +69,7 @@ Code Request → Agent 1: Code Generation → Agent 2: Code Optimization → Doc
 ```
 
 ### 🚨 SOS Exam Prep
-![SOS Exam Prep](https://via.placeholder.com/600x300)
+![SOS Exam Prep](frontend/resources/sos_exam.png)
 
 Last-minute study made effective:
 - Choose from cheat sheets, memory aids, or common mistakes guides
@@ -83,7 +83,7 @@ Topic Selection → Format Choice → AI Knowledge Base Check → Internet Resea
 ```
 
 ### 📝 Content Generator
-![Content Generator](https://via.placeholder.com/600x300)
+
 
 Learning materials tailored to your expertise:
 - Select your topic and proficiency level (Beginner/Intermediate/Advanced)
