@@ -26,7 +26,7 @@ Topic Input → AI Agents Collaboration → Internet Search → Resource Collect
 ```
 
 ### 💬 Intelligent Chatbot
-![Intelligent Chatbot](https://via.placeholder.com/600x300)
+![Intelligent Chatbot](frontend/resources/chatbot.png)
 
 A versatile learning assistant that:
 - Answers questions with up-to-date information by searching the internet when needed
@@ -40,7 +40,8 @@ User Query → LLM Knowledge Check → Internet Search (if needed) → Memory St
 ```
 
 ### 🖌️ Smart Canvas
-![Smart Canvas](https://via.placeholder.com/600x300)
+![Smart Canvas](frontend/resources/canvas1.png)
+![Smart Canvas](frontend/resources/canvas2.png)
 
 Solve complex problems visually:
 - Draw mathematical equations or diagrams directly on the canvas
