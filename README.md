@@ -3,6 +3,7 @@
 ![Vidya Mitra Logo](frontend/resources/dashboard.png)
 
 [📺 Watch Demo Video](https://drive.google.com/file/d/1eIehR4QUnKA_NNgQTPzt77drfhdQopXO/view?usp=sharing)
+## [ Website Link](https://vidya-mitra-frontend-two.vercel.app/)
 
 > Making learning easy and effective through AI-powered education
 > > Built Totally upon AI Agents
